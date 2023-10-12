@@ -4,7 +4,7 @@ Este repositorio contiene un programa diseñado para equilibrar cargas. El códi
 
 ## Descripción
 
-El proyecto `Equilibrador_de_carga` es una herramienta que busca optimizar y equilibrar cargas en diferentes escenarios. Aunque los detalles específicos del funcionamiento interno no están detallados en el repositorio, el código fuente puede proporcionar una visión clara de su implementación y lógica.
+El proyecto `Equilibrador_de_carga` es una herramienta que busca optimizar y equilibrar cargas de un sistema trifasico con 5 cargas en casa fase. el sistema fisico se puede implementar con reles de estado solido.
 
 ## Uso
 
